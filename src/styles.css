@@ -1,1 +1,9 @@
 /* You can add global styles to this file, and also import other style files */
+.container{
+    background-color: darksalmon;
+    border: 2px solid black;
+    width: 80vh;
+    position:absolute;
+    left: 500px;
+    top:200px;
+}
